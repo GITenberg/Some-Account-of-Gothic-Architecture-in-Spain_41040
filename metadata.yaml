@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40946
     wikipedia: http://en.wikipedia.org/wiki/George_Edmund_Street
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41040#Some-Account-of-Gothic-Architecture-in-Spain
 gutenberg_issued: '2012-10-13'
 gutenberg_type: Text
 identifiers:
