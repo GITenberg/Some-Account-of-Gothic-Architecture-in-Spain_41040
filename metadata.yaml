@@ -1,0 +1,29 @@
+_repo: Some-Account-of-Gothic-Architecture-in-Spain_41040
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41040-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Street, George Edmund
+    birthdate: 1824
+    deathdate: 1881
+    gutenberg_agent_id: '40946'
+    url: http://www.gutenberg.org/2009/agents/40946
+    wikipedia: http://en.wikipedia.org/wiki/George_Edmund_Street
+description: ''
+gutenberg_issued: '2012-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41040'
+  lccn: '32018212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture -- Spain'
+- !lcc 'NA'
+- !lcsh 'Architecture, Gothic -- Spain'
+title: Some Account of Gothic Architecture in Spain
+url: http://www.gutenberg.org/ebooks/41040
